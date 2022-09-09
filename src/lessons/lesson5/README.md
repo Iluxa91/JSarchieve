@@ -5,4 +5,10 @@
 Задания:
 1) Решить все задачи.
 2) Много времени функциям конструкторам не уделять
-3) Решить все задачи на this и call,apply,bind на learn.javascript.ru 
+3) Решить все задачи на this и call,apply,bind на learn.javascript.ru
+
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/this
+https://doka.guide/js/function-context/
+
+
+
